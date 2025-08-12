@@ -26,6 +26,7 @@ A passionate **Data Analyst enthusiast** 📊 who believes in the power of data 
 <p>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
 </p>
 
 **Tools & Platforms**  
